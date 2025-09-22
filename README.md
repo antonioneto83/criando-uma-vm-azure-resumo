@@ -3,7 +3,7 @@
 Esse resumo tem como objetivo orientar para o uso de criação de maquinas virtuais no ambiente azure da microsoft
 para duvidas: https://learn.microsoft.com/pt-br/azure/virtual-machines/windows/quick-create-portal#create-virtual-machine (documentação oficial)
 
-# Tutorial: Criar uma Máquina Virtual no Azure (passo a passo, em Markdown)
+# Tutorial: Criar uma Máquina Virtual no Azure (passo a passo)
 
 Abaixo está um tutorial completo e pronto para colar no README do GitHub. Contém instruções pelo **Portal** (interface web) e pelo **Azure CLI**, além de dicas práticas e comandos prontos.
 
